@@ -1,6 +1,6 @@
 {
   "name": "@Girish/buttonpackage",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Reusable React button component package",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
