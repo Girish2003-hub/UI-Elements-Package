@@ -1,5 +1,5 @@
 {
-  "name": "@girishkhedikar/buttonpackage",
+  "name": "buttonpackage",
   "version": "0.0.1",
   "description": "Reusable React button component package",
   "main": "./dist/index.cjs",
